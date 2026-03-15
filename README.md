@@ -1,6 +1,8 @@
-# ISO27001-GRC-Project
+# ISO 27001 Risk Management Project
 
-ISO 27001 risk assessment and ISMS implementation project.
+This project demonstrates a basic Governance, Risk, and Compliance (GRC) risk management process aligned with ISO 27001 concepts.
+
+The project includes asset identification, risk assessment, control mapping, and security architecture documentation.
 
 ## Project Structure
 
